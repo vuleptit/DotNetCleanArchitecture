@@ -1,0 +1,6 @@
+@BLP.WebAPI_HostAddress = http://localhost:5155
+
+GET {{BLP.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
